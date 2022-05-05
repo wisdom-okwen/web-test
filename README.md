@@ -1,2 +1,2 @@
 # test-repo
- Intro to Git and GitHub
+ First GitHub Project on Web Development
